@@ -12,7 +12,9 @@ For now, CFs are stoarge in csv format.
 
 # Next Steps
 Include other impact categories of LC-Imapct method (including correspondece tables).  
-Convert csv format in to RDF format (particular important for regionalized CFs).
+Convert csv format in to RDF format (particular important for regionalized CFs).  
+  
+In order to keep track of what methods/indicators are available, all developments shall be reported in the [Overview File](https://github.com/BONSAMURAIS/LCIA_Module/blob/master/raw/_Overview_of_available_correspondence_files.csv)
 
 # Group members
  * [Tiago Morais](https://github.com/tgmorais1)
